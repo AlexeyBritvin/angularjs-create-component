@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create-component": "node ./lib/index.js --basePath=./js/components --module=app"
+    "create-component": "node ./bin/index.js --basePath=./js/components --module=app"
   },
   "repository": {
     "type": "git",
