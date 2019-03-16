@@ -14,7 +14,9 @@
     "create-component": "./bin/index.js"
   },
   "keywords": [
-    "angularjs"
+    "angularjs",
+    "create",
+    "component"
   ],
   "author": "Alexey Britvin",
   "license": "ISC",
