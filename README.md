@@ -12,7 +12,7 @@ my-super-component
 
 ## Install
 
-npm i angularjs-create-component -g
+`npm i angularjs-create-component -g`
 
 ## Usage
 
