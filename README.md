@@ -10,7 +10,7 @@ my-super-component
   my-super-component.scss
 ```
 
-##Install
+## Install
 
 npm i angularjs-create-component -g
 
