@@ -1,17 +1,14 @@
 {
   "name": "angularjs-create-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "create-component": "node ./bin/index.js --basePath=./js/components --module=app"
-  },
+  "main": "./lib/create-component.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlexeyBritvin/angularjs-create-component.git"
   },
   "bin": {
-    "create-component": "./bin/index.js"
+    "create-component": "./bin/create-component"
   },
   "keywords": [
     "angularjs",
