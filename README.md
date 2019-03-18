@@ -10,9 +10,13 @@ my-super-component
   my-super-component.scss
 ```
 
+##Install
+
+npm i angularjs-create-component -g
+
 ## Usage
 
-`npm run create-component -- my-super-component --path=./src/js`
+`create-component -- my-super-component --path=./src/js`
 
 ## Params
 
