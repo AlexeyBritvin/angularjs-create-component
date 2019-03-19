@@ -7,7 +7,7 @@ my-super-component
   my-super-component.component.ts
   my-super-component.controller.ts
   my-super-component.html
-  my-super-component.scss
+  my-super-component.less
 ```
 
 ## Install
