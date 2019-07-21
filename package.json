@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/AlexeyBritvin/angularjs-create-component#readme",
   "devDependencies": {
-    "eslint": "^5.15.1",
+    "eslint": "^5.16.0",
     "eslint-config-yandex": "^1.0.6"
   }
 }
